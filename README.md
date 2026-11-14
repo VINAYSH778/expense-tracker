@@ -1,3 +1,4 @@
+<img src="screenshots/dashboard.png" width="900">
 # 💰 Expense Tracker
 
 A Personal Expense Tracking Application built using Python and Streamlit.
@@ -15,3 +16,4 @@ A Personal Expense Tracking Application built using Python and Streamlit.
 
 ### Manage Money
 ![Manage Money](screenshots/manage-money.png)
+
